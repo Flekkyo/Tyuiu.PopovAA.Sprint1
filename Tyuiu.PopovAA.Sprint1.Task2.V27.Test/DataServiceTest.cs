@@ -15,5 +15,5 @@ namespace Tyuiu.PopovAA.Sprint1.Task2.V27.Test
             var res = ds.CalculateSquarePerimetr(2);
             Assert.AreEqual(8, res);
         }
-    }
+    } 
 }  

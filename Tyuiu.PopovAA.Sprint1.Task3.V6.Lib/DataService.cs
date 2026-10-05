@@ -8,4 +8,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task3.V6.Lib
             return Math.Round(((gasFlow / 100 * distance) * gasPrice * 2), 3);
         }
     }
-} 
+}  

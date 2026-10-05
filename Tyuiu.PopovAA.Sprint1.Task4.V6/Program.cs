@@ -35,4 +35,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task4.V6
             Console.WriteLine($"Для указанных X = {x} и Y = {y}, значение выражения (|y^2 - x| / xy), равно: {ds.Calculate(x, y)}.");
         }
     }
-}  
+} 

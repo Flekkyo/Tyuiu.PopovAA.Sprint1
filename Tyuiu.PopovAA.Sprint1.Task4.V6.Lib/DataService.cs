@@ -8,4 +8,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task4.V6.Lib
             return Math.Round(Math.Abs(Math.Pow(y, 2) - x) / (x * y), 3);
         }
     }
-}  
+}   

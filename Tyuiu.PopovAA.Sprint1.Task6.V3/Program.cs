@@ -32,4 +32,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task6.V3
             Console.WriteLine(ds.LastLetterWord(x));
         }
     }
-}
+} 

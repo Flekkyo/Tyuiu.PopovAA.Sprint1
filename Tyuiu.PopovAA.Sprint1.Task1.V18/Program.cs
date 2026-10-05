@@ -1,7 +1,7 @@
 ﻿using Tyuiu.PopovAA.Sprint1.Task1.V18.Lib;
 namespace Tyuiu.PopovAA.Sprint1.Task1.V18
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {

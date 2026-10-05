@@ -17,5 +17,5 @@ namespace Tyuiu.PopovAA.Sprint1.Task4.V6.Test
             var res = ds.Calculate(x, y);
             Assert.AreEqual(-2.871, res);
         }
-    }
+    } 
 }

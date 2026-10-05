@@ -33,4 +33,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task5.V5
             Console.WriteLine(ds.Calculate(x));
         }
     }
-} 
+}  

@@ -32,4 +32,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task2.V27
             Console.Write($"Периметр квадрата со стороной {x} равен: {ds.CalculateSquarePerimetr(x)} ");
         }
     }
-} 
+}  

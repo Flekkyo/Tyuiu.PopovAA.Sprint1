@@ -8,4 +8,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task0.V5.Lib
             return (1 + 2) * (1 + 9 / 3);
         }
     }
-}
+} 

@@ -22,4 +22,4 @@ namespace Tyuiu.PopovAA.Sprint1.Task6.V3.Lib
             return final_word;
         }
     }
-} 
+}  

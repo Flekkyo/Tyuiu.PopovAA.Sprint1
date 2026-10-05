@@ -38,5 +38,5 @@ namespace Tyuiu.PopovAA.Sprint1.Task3.V6
             Console.WriteLine($"Поездка на дачу и обратно обойдется в {ds.TravelCost(dist, gas, price)} руб.");
         }
     }
-}
+} 
  

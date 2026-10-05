@@ -1,20 +1,16 @@
-using Tyuiu.PopovAA.Sprint1.Task5.V5.Lib;
-namespace Tyuiu.PopovAA.Sprint1.Task5.V5.Test
-{
-    public class Tests
-    {
-        [SetUp]
-        public void Setup()
-        {
-        }
+﻿using Tyuiu.PopovAA.Sprint1.Task5.V5.Lib;
+namespace Tyuiu.PopovAA.Sprint1.Task5.V5.Test;
 
-        [Test]
-        public void Test1()
-        {
-            DataService ds = new DataService();
-            double x = 345.345;
-            var res = ds.Calculate(x);
-            Assert.AreEqual(3, res);
-        }
-    } 
-}  
+[TestClass]
+public sealed class DataServiceTest
+{
+    [TestMethod]
+    public void TestMethod1()
+    {
+        DataService ds = new DataService();
+        double x = 345.345;
+        var res = ds.Calculate(x);
+        Assert.AreEqual(3, res);
+    }
+}
+ 

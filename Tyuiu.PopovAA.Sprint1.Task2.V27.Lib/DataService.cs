@@ -7,5 +7,5 @@ namespace Tyuiu.PopovAA.Sprint1.Task2.V27.Lib
         {
             return value * 4;
         }
-    } 
+    }  
 }  

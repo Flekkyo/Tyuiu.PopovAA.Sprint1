@@ -6,7 +6,7 @@
   </Folder>
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.PopovAA.Sprint1.Task1.V18.Lib/Tyuiu.PopovAA.Sprint1.Task1.V18.Lib.csproj" />
-    <Project Path="Tyuiu.PopovAA.Sprint1.Task1.V18.Test/Tyuiu.PopovAA.Sprint1.Task1.V18.Test.csproj" />
+    <Project Path="Tyuiu.PopovAA.Sprint1.Task1.V18.Test/Tyuiu.PopovAA.Sprint1.Task1.V18.Test.csproj" Id="7fce312d-ff48-44e5-a273-9056e9e1e0bb" />
     <Project Path="Tyuiu.PopovAA.Sprint1.Task1.V18/Tyuiu.PopovAA.Sprint1.Task1.V18.csproj" />
   </Folder>
   <Folder Name="/Task2/">
